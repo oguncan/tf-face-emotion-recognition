@@ -9,3 +9,6 @@ models klasörü içerisine atılması gereken eğitilmiş hazır modeller: http
 
 program main_webcam.py dosyası ile çalıştırılmaktadaır. 
 
+**VİDEO**
+
+https://www.youtube.com/watch?v=SSLpdB-D9nE
