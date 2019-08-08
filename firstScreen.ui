@@ -280,9 +280,9 @@
   <widget class="QLabel" name="label_2">
    <property name="geometry">
     <rect>
-     <x>140</x>
+     <x>210</x>
      <y>100</y>
-     <width>331</width>
+     <width>211</width>
      <height>101</height>
     </rect>
    </property>
@@ -297,10 +297,16 @@
     <bool>false</bool>
    </property>
    <property name="frameShape">
-    <enum>QFrame::Box</enum>
+    <enum>QFrame::Panel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Plain</enum>
    </property>
    <property name="text">
-    <string>                             LOGO</string>
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>logo.png</pixmap>
    </property>
   </widget>
  </widget>
