@@ -1,2 +1,2 @@
-# tf-face-emotion-recognition
-This project include face and emotion recognition. 
+# Derin Ogrenme - Yuz Tanima
+İki projenin birleşimidir.
